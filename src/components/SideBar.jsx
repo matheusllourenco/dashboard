@@ -56,7 +56,6 @@ function SideBar(){
                 <hr className="sidebar-divider d-none d-md-block"/>
             </ul>
             {/*<!-- End of Sidebar -->*/}
-            
         </>
     )
 }
